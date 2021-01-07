@@ -2,7 +2,7 @@
 """
 Created on Thu Jan  7 19:47:24 2021
 
-@author: CZR
+@author: Selcuk
 """
 
 Gecerli_kelimeler = "0123456789+-/*="
